@@ -76,5 +76,5 @@ npm install
 # Inicie o servidor de desenvolvimento
 npm run dev
 
-🌐 Live Demo: https://bahiadigitalstudio.dev
+🌐 Live Demo:bahiadigitalstudio.vercel.app
 

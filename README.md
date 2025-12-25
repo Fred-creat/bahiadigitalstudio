@@ -28,6 +28,16 @@ O objetivo deste projeto é servir como **vitrine técnica**, demonstrando boas 
 
 ---
 
+
+## 📸 Screenshots
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b8a5bead-4a3a-4195-ae63-55f39d4cf851" width="120" />
+  <img src="https://github.com/user-attachments/assets/2576b62b-4df2-4dda-a2c7-73166e3a6606" width="120" />
+  <img src="https://github.com/user-attachments/assets/e274f36f-adbe-4fda-849f-7b6bb64c78cc" width="120" />
+</div>
+
+
 ## 📂 Estrutura do Projeto
 
 

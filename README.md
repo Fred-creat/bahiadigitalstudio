@@ -1,16 +1,80 @@
-# React + Vite
+# Bahia Digital Studio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Portfólio profissional desenvolvido para apresentar projetos, habilidades e serviços digitais, com foco em desenvolvimento web moderno e experiência do usuário.
 
-Currently, two official plugins are available:
+O objetivo deste projeto é servir como **vitrine técnica**, demonstrando boas práticas de frontend, organização de código e uso de tecnologias atuais do ecossistema JavaScript.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Tecnologias Utilizadas
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- Vite
+- Styled-components
+- React Router DOM
+- Formspree (formulário de contato)
+- JavaScript (ES6+)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🎨 Principais Funcionalidades
+
+- Layout moderno e responsivo
+- Navegação SPA com React Router
+- Seções de apresentação, projetos e contato
+- Formulário funcional integrado ao Formspree
+- Animações suaves para melhor experiência do usuário
+- Código organizado e escalável
+
+---
+
+## 📂 Estrutura do Projeto
+
+
+
+
+src/
+├── src
+├── components/
+│ ├── Footer
+│ ├── Header
+│ └── Layout
+├── pages/
+│ ├── About
+│ ├── Contact
+│ ├── Home
+  ├── Portfólio
+│ └── Services
+├── styles/
+│ ├── theme
+└── App.jsx
+
+
+
+
+
+---
+
+## ⚙️ Como Rodar o Projeto Localmente
+
+### Pré-requisitos
+- Node.js (versão 18 ou superior)
+- NPM ou Yarn
+
+### Passo a passo
+
+```bash
+# Clone o repositório
+git clone https://github.com/Fred-creat/bahiadigitalstudio.git
+
+# Acesse a pasta do projeto
+cd bahiadigitalstudio
+
+# Instale as dependências
+npm install
+
+# Inicie o servidor de desenvolvimento
+npm run dev
+
+🌐 Live Demo: https://bahiadigitalstudio.dev
+
